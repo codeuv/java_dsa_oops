@@ -2,7 +2,7 @@
 
 import java.util.ArrayList;
 
-public class Math5 {
+public class Main5 {
     static void printnto1(int n ){
         if(n == 0 ) return;
         System.out.println(n);
